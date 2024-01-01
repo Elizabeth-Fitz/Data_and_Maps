@@ -13,4 +13,9 @@
   ![image](https://github.com/Elizabeth-Fitz/Data_and_Maps/assets/113856074/ddf26a04-1e55-4e6f-b4d6-e197fb80c051)
   ![image](https://github.com/Elizabeth-Fitz/Data_and_Maps/assets/113856074/00e6d43b-f7d6-4744-aadd-4ace693aabde)
 
+## Data Sources:
+
+[The Squirrel Census Website](https://www.thesquirrelcensus.com/)
+[Actual CSV data](https://www.dropbox.com/s/b97hxtsthbidl34/squirrel-data.csv?dl=0)
+
 
