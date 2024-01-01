@@ -1,7 +1,7 @@
 # Purpose of this project
 
 ## Intoduction to New Concepts
-  I have been interested in Geo-Data for a while now and decided to give it a try. After learning from a frew videos and webpages, I decided to use Folium for this project.
+  I have been interested in Geo-Data for a while now and decided to give it a try. After learning from a few videos and webpages, I decided to use Folium for this project.
   Through this, I have not only learned how to plot the points and create the interactive map, but also manipulate and replace data to make it easier to create the desired outcome. 
 
 ## Frequncy of Each Type of Squirrel
