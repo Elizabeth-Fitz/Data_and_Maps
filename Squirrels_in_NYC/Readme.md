@@ -18,4 +18,7 @@
 [The Squirrel Census Website](https://www.thesquirrelcensus.com/)
 [Actual CSV data](https://www.dropbox.com/s/b97hxtsthbidl34/squirrel-data.csv?dl=0)
 
+Sample of original Data:
+![image](https://github.com/Elizabeth-Fitz/Data_and_Maps/assets/113856074/52520377-4e7c-481e-89d8-3b89d75dc237)
+
 
